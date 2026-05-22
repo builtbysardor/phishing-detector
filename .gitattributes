@@ -1,0 +1,3 @@
+*.css linguist-vendored
+*.html linguist-documentation
+frontend/ linguist-vendored
