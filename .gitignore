@@ -11,7 +11,10 @@ ENV/
 # Data & Models
 data/*.csv
 *.joblib
-backend.log
+
+# Logs
+*.log
+frontend/frontend.log
 
 # IDEs
 .vscode/
